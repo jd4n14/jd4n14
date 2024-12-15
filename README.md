@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm g0d13</h1>
 <h3 align="center">Lets fucking goooo!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jd4n14" alt="jd4n14" /></a> </p>
-
-- 🔭 I’m currently working on [lav](lav)
-
 - 🌱 I’m currently learning **C#, dotnet**
 
 - 💬 Ask me about **typescript, javascript, csharp**
